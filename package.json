@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-inline-react-svg",
+  "name": "@macalinao/babel-plugin-inline-react-svg",
   "version": "1.1.2",
   "description": "A babel plugin that optimizes and inlines SVGs for your react components.",
   "main": "lib/index.js",
